@@ -7,7 +7,7 @@ Create immersive 3D experiences on Roblox with **Roblox Studio**, a free applica
 
 ## System requirements
 
-<table style={{width: '75%'}} size="small">
+<table style={{width: '300%'}} size="big">
 <thead>
 <tr>
 <th></th>
@@ -23,7 +23,7 @@ Create immersive 3D experiences on Roblox with **Roblox Studio**, a free applica
 </tr>
 <tr>
 <td>**Memory (RAM)**</td>
-<td>3 GB</td>
+<td>8 GB</td>
 <td>8 GB</td>
 </tr>
 <tr>
